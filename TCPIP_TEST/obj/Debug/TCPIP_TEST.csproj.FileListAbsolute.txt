@@ -1,0 +1,6 @@
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\bin\Debug\TCPIP_TEST.exe.config
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\obj\Debug\TCPIP_TEST.csprojResolveAssemblyReference.cache
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\bin\Debug\TCPIP_TEST.exe
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\bin\Debug\TCPIP_TEST.pdb
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\obj\Debug\TCPIP_TEST.exe
+c:\users\remmie's\documents\visual studio 2015\Projects\TCPIP_TEST\TCPIP_TEST\obj\Debug\TCPIP_TEST.pdb
